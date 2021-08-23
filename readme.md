@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This app was designed to provide an internet retail company with an e-commerce website backend that uses the latest technologies.
+This app was designed to provide an internet retail company with an ecommerce website backend that uses the latest technologies.
 
 ## Built With
 
