@@ -29,7 +29,7 @@ This app was designed to provide an internet retail company with an ecommerce we
 - Create a .env file with the following: 
 `DB_NAME='ecommerce_db'
 DB_USER='root'
-DB_PW='<insert your password here>'
+DB_PW='<insert your password here>' `
 
 - To seed the directory, run:
 `node seeds/index.js`
