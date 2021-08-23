@@ -4,7 +4,13 @@
 
 This app was designed to provide an internet retail company with an ecommerce website backend that uses the latest technologies.
 
-## Built With
+## Table of Contents
+* [Tools](#tools)
+* [Installation](#installation)
+* [Video](#video)
+* [Contribution](#contribution)
+
+## Tools
 
 - JavaScript
 - Node.js
@@ -28,7 +34,7 @@ DB_PW='<insert your password here>'
 - To seed the directory, run:
 `node seeds/index.js`
 
-- To run, use: 
+- To start the server so that routes can be tested in Insomnia, use: 
 `npm start`
 
 ## Video
