@@ -1,4 +1,4 @@
-# E-commerce Backend
+# eCommerce Backend
 
 ## Purpose
 
