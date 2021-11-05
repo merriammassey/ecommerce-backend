@@ -8,7 +8,6 @@ This app was designed to provide an internet retail company with an ecommerce we
 * [Tools](#tools)
 * [Installation](#installation)
 * [Video](#video)
-* [Contribution](#contribution)
 
 ## Tools
 
@@ -41,7 +40,4 @@ DB_PW='<insert your password here>' `
 
 https://youtu.be/f-dBNa0Y9k0
 
-## Contribution
-
-Starter code provided by University of Arizona Full Stack Development Boot Camp.
 
