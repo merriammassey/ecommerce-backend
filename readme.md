@@ -43,7 +43,5 @@ https://youtu.be/f-dBNa0Y9k0
 
 ## Contribution
 
-- Xandromus provided starter code.
-- Jude, Phil, and Matt R. provided significant assistance.
+Starter code provided by University of Arizona Full Stack Development Boot Camp.
 
-### ©️2021 Merriam Massey
